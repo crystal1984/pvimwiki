@@ -11,13 +11,10 @@
 - [[C语言]] | [[C++语言]]
 
 == 读书笔记 ==
-- CSS 
-	- [[CSS3|CSS3]] | [[CSS-Hacks|CSS-Hacks]]
-- JS
-	- [[originality_js|原生的JS]] | [[javascript_advance_programe|Javascript高级程序设计]]
-	- [[jQuery|jQuery]] | [[YUI]] | [[Prototype]] | [[ExtJS]] | [[Dojo]]
-- HTML
-	- [[HTML5|HTML5]]
+- 四书五经 
+	- [[大学]] | [[中庸]] | [[论语]] | [[孟子]]
+- 名人传记
+- 经典名著
 
 == 旅游景点 ==
 - [[guangdong/index|广东]] | [[beijing/index|北京]] | [[shanghai/index|上海]] | [[xianggang/index|香港]]
@@ -26,7 +23,7 @@
 - [[PHP|PHP]] | [[Python|Python]] | [[Java|Java]] | [[Ruby|Ruby]] | [[Django|Django]]
 
 == 生活百科 ==
-- [[PHP|PHP]] | [[Python|Python]] | [[Java|Java]] | [[Ruby|Ruby]] | [[Django|历史]]
+- [[PHP|生活常识]]
  
 == 友情链接 ==
 - [[http://www.zreading.cn/|左岸读书]] | [[http://www.apple4.cn/|惜墨]]
