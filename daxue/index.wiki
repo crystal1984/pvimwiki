@@ -1,7 +1,7 @@
 <div class="nav">
 	[[../index|首页]]
 </div>
-= 香港旅游景点 =
+= 大学 =
 ----
 
-%title 香港旅游景点
+%title 大学

@@ -12,12 +12,13 @@
 
 == 读书笔记 ==
 - 四书五经 
-	- [[大学]] | [[中庸]] | [[论语]] | [[孟子]]
+	- [[daxue/index|大学]] | [[zhongyong/index|中庸]] | [[lunyu/indeX|论语]] | [[mengzi/index|孟子]]
+	- [[周易]] | [[尚书]] | [[诗经]] | [[礼记]] | [[左传]]
 - 名人传记
 - 经典名著
 
 == 旅游景点 ==
-- [[guangdong/index|广东]] | [[beijing/index|北京]] | [[shanghai/index|上海]] | [[xianggang/index|香港]]
+- [[guangdong/index|广东]] | [[beijing/index|北京]] | [[shanghai/index|上海]] | [[xianggang/index|香港]] | [[aomen/index|澳门]]
 
 == 历史世界 ==
 - [[PHP|PHP]] | [[Python|Python]] | [[Java|Java]] | [[Ruby|Ruby]] | [[Django|Django]]
