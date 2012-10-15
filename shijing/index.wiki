@@ -1,0 +1,7 @@
+<div class="nav">
+	[[../index|首页]]
+</div>
+= 诗经 =
+----
+
+%title 诗经

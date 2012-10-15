@@ -1,0 +1,7 @@
+<div class="nav">
+	[[../index|首页]]
+</div>
+= 左传 =
+----
+
+%title 左传

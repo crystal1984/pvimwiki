@@ -1,0 +1,7 @@
+<div class="nav">
+	[[../index|首页]]
+</div>
+= 礼记 =
+----
+
+%title 礼记

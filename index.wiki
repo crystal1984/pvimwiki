@@ -13,7 +13,10 @@
 == 读书笔记 ==
 - 四书五经 
 	- [[daxue/index|大学]] | [[zhongyong/index|中庸]] | [[lunyu/indeX|论语]] | [[mengzi/index|孟子]]
-	- [[周易]] | [[尚书]] | [[诗经]] | [[礼记]] | [[左传]]
+	- [[zhouyi/index|周易]] | [[shangshu/index|尚书]] | [[shijing/index|诗经]] | [[liji/index|礼记]] | [[zuozhuan/index|左传]]
+- 国学系列
+	- [[三字经 ]]
+	- [[弟子规 ]]
 - 名人传记
 - 经典名著
 

@@ -1,0 +1,7 @@
+<div class="nav">
+	[[../index|首页]]
+</div>
+= 尚书 =
+----
+
+%title 尚书
