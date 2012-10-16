@@ -1,0 +1,7 @@
+<div class="nav">
+	[[../index|首页]]
+</div>
+= 弟子规 =
+----
+
+%title 弟子规 

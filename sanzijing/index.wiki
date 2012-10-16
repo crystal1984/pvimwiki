@@ -1,0 +1,7 @@
+<div class="nav">
+	[[../index|首页]]
+</div>
+= 三字经 =
+----
+
+%title 三字经 
