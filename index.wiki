@@ -12,7 +12,7 @@
 
 == 读书笔记 ==
 - 四书五经 
-	- [[daxue/index|大学]] | [[zhongyong/index|中庸]] | [[lunyu/indeX|论语]] | [[mengzi/index|孟子]]
+	- [[daxue/index|大学]] | [[zhongyong/index|中庸]] | [[lunyu/index|论语]] | [[mengzi/index|孟子]]
 	- [[zhouyi/index|周易]] | [[shangshu/index|尚书]] | [[shijing/index|诗经]] | [[liji/index|礼记]] | [[zuozhuan/index|左传]]
 - 国学系列
 	- [[sanzijing/index|三字经 ]]
